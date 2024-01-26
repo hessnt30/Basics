@@ -1,0 +1,3 @@
+My favorite programming language is Python due to its simplicity and flexibility. It is a great first language to learn, but has advanced capabilities for large-scale projects. Frameworks like Django and Flask allow for backend web development. There is a lot you can do with Python.
+
+With how much you can do with Python, I would say I am not the most experienced with this one. I am probably more experienced with C or Java, just because I have used it more
